@@ -9,8 +9,12 @@ p{
 }
 nav a{
     font-size: 40px;border:10px solid yellow;
+    text-decoration:none;background-color:yellow;
+    border-radius:5px;color:blue;
 }
-
+nav{
+    text-align:center;margin:20px;
+}
 
 
 
